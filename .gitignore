@@ -1,0 +1,8 @@
+# Never commit these
+china_ai_corpus/corpus.json
+china_ai_corpus/pdfs/
+*.pdf
+*.pptx
+__pycache__/
+*.pyc
+.DS_Store
